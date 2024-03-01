@@ -1,6 +1,11 @@
-# CircleCi-python
-<h1> Run the code</h1>
-python main.py
+## Python - CircleCI
 
-<h2>Test the code</h2>
+### Run the code
+```
+python main.py
+```
+
+### Test the code
+```
 python tests.py
+```
